@@ -1,0 +1,10 @@
+{
+  "id": "wasm-pack",
+  "version": "0.0.1",
+  "name": "wasm-pack for Rust",
+  "documentationURL": "https://github.com/nvdaz/rust-wasm-feature",
+  "description": "Installs wasm-pack for rust",
+  "options": {},
+  "mounts": [],
+  "installsAfter": ["ghcr.io/devcontainers/features/rust"]
+}
