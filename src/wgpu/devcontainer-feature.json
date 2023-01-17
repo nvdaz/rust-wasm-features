@@ -1,0 +1,9 @@
+{
+  "id": "wgpu",
+  "version": "0.0.1",
+  "name": "wgpu",
+  "documentationURL": "https://github.com/nvdaz/rust-wasm-feature",
+  "description": "Installs dependencies for wgpu",
+  "options": {},
+  "mounts": []
+}
