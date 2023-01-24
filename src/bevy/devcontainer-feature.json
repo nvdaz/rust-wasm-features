@@ -1,0 +1,9 @@
+{
+  "id": "bevy",
+  "version": "0.0.1",
+  "name": "bevy",
+  "documentationURL": "https://github.com/nvdaz/rust-wasm-feature",
+  "description": "Installs dependencies for bevy",
+  "options": {},
+  "mounts": []
+}
