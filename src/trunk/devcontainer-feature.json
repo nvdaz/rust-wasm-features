@@ -1,0 +1,10 @@
+{
+  "id": "trunk",
+  "version": "0.0.1",
+  "name": "trunk for Rust",
+  "documentationURL": "https://github.com/nvdaz/rust-wasm-feature",
+  "description": "Installs trunk for rust",
+  "options": {},
+  "mounts": [],
+  "installsAfter": ["ghcr.io/devcontainers/features/rust"]
+}
